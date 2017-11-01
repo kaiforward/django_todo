@@ -26,7 +26,7 @@ SECRET_KEY = 'o31$pu5k_=9mj3_8qs+l##fznl(lqy$x9emr$mjesjn4*(%h*w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1:8000',]
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost:8000', 'https://enigmatic-dusk-37984.herokuapp.com/']
 
 # Application definition
 
